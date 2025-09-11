@@ -1,4 +1,4 @@
-img src="https://visitor-badge.feriirawann.repl.co?username=christelleeh&repo=README.md" alt="Visitor Badge" /
+![Profile views](https://komarev.com/ghpvc/?username=christelleeh&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ## Hi there 👋
