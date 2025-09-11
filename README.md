@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.feriirawann.repl.co?username=christelleeh&repo=README.md" alt="Visitor Badge" />
+img src="https://visitor-badge.feriirawann.repl.co?username=christelleeh&repo=README.md" alt="Visitor Badge" /
 
 
 ## Hi there 👋
